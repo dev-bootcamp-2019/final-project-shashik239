@@ -1,4 +1,4 @@
-pragma solidity >=0.4.24;
+pragma solidity ^0.4.24;
 
 import "./CircuitBreakerContract.sol";
 import "../node_modules/openzeppelin-solidity/contracts/payment/PullPayment.sol";

@@ -1,2 +1,2 @@
-BountyContract.sol - 0x8bae212130236b433915bb982db9e5240d32b404
-CircuitBreakerContract.sol - 0x75f180cf0cff29e96b780db4ad8b23c9e2b70986
+BountyContract.sol - 0x708a32c5852af615ba24e2ce035681d85563c0f6
+CircuitBreakerContract.sol - 0xf0b48e265c29a6ac758dfbb8caf60d89b6afe5b3

@@ -14,7 +14,7 @@
 
 A Decentralized Application for Bounty Creator and Hunters
 
-IMPORTANT : This dAPP runs on Truffle 4.X an Solc 0.4.X
+
 
 ## 1. Features
 
@@ -120,7 +120,7 @@ For the steps taken to avoid known common attacks, please see [avoiding common a
 
 ## 9. Rinkeby Test Network, IPFS and ENS
 
- - Any application can take advantage of the Bounty Contract, which is currently deployed on the Rinkeby network at `0xd42c3af1fff3ff57710765250421fd77f165c15c`   
+ - Any application can take advantage of the Bounty Contract, which is currently deployed on the Rinkeby network at `0x708a32c5852af615ba24e2ce035681d85563c0f6`   
  All deployed addresses are available in the file [deployed addresses](./deployed_addresses.txt)
 
  - An _INFURA_ hosted Ethereum node is used to connect and deploy to the Rinkeby Testnet. The configuration can be seen in the _truffle.config_ file
@@ -132,7 +132,7 @@ For the steps taken to avoid known common attacks, please see [avoiding common a
 and can be accessed at [https://gateway.ipfs.io/ipns/QmXmyJdaBYfqeBrJRmKtkxPFiJ8xrUSLaxegvhCT1WqvW9/#/](https://gateway.ipfs.io/ipns/QmXmyJdaBYfqeBrJRmKtkxPFiJ8xrUSLaxegvhCT1WqvW9/#/)
 
 
-- The ENS name `bountyDApp.test` resolves to the _BountyContract.sol_ address `0x8bae212130236b433915bb982db9e5240d32b404` via the `ensutils-rinkeby.js` script pointing to the Rinkeby network contracts:  
+- The ENS name `bountyDApp.test` resolves to the _BountyContract.sol_ address `0x708a32c5852af615ba24e2ce035681d85563c0f6` via the `ensutils-rinkeby.js` script pointing to the Rinkeby network contracts:  
     ```
     ens contract address: 0xe7410170f87102df0055eb195163a03b7f2bff4a (line 220)
     publicResolver address: 0x5d20cf83cb385e06d2f2a892f9322cd4933eacdc (line 1314)
