@@ -128,8 +128,8 @@ For the steps taken to avoid known common attacks, please see [avoiding common a
  - The Admin/Owner address used to deploy the contract to the Rinkeby TestNet is `0x4dE2481FD30c938C5E9cFBCFe6D243f4946bf6BD`
  - The private key for importing this account for testing the features of the App can be provided on request
  
-- The static assets are deployed to the IPFS name hash `https://gateway.ipfs.io/ipfs/QmXmyJdaBYfqeBrJRmKtkxPFiJ8xrUSLaxegvhCT1WqvW9/#/`
-and can be accessed at [https://gateway.ipfs.io/ipns/QmXmyJdaBYfqeBrJRmKtkxPFiJ8xrUSLaxegvhCT1WqvW9/#/](https://gateway.ipfs.io/ipns/QmXmyJdaBYfqeBrJRmKtkxPFiJ8xrUSLaxegvhCT1WqvW9/#/)
+- The static assets are deployed to the IPFS name hash `https://ipfs.infura.io/ipfs/QmVy3dnRpcXf1YQEqtfmDQCVTWkZpwqhDWyhuXTAYM2oJJ/#/`
+and can be accessed at [https://ipfs.infura.io/ipfs/QmVy3dnRpcXf1YQEqtfmDQCVTWkZpwqhDWyhuXTAYM2oJJ/#/](https://ipfs.infura.io/ipfs/QmVy3dnRpcXf1YQEqtfmDQCVTWkZpwqhDWyhuXTAYM2oJJ/#/)
 
 
 - The ENS name `bountyDApp.test` resolves to the _BountyContract.sol_ address `0x708a32c5852af615ba24e2ce035681d85563c0f6` via the `ensutils-rinkeby.js` script pointing to the Rinkeby network contracts:  
